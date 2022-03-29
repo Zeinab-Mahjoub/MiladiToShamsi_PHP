@@ -1,0 +1,9 @@
+h1, label, button {
+    font-family: "B Yekan" !important;
+}
+.transformed-date {
+    width: 40%;
+    font-size: 3rem;
+    display: inline-block;
+    text-align: center;
+}
